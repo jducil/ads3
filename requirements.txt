@@ -8,5 +8,5 @@ scipy==1.10.1
 seaborn==0.13.0
 streamlit==1.29.0
 tensorboard-data-server==0.7.2
-tensorflow==2.13.0
+tensorflow==2.13.1
 
